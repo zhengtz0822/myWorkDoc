@@ -1,8 +1,7 @@
-# Myblogs
+# 云ERP开发帮助
 
 
-> 我要开始装逼了
+> Click me!
 
 
-[CSDN](baidu.com)
 [滚动鼠标](#introduction)
